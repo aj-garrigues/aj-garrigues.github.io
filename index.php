@@ -21,7 +21,7 @@
                     <div class="row">
                         <div class="heading">
                             <div class="feature-img">
-                                <a href="index-2.html"><img src="assets/images/ajgarrigues.jpg" class="responsive-img" alt="AJ Garrigues"></a> 
+                                <a href="index.php"><img src="assets/images/ajgarrigues.jpg" class="responsive-img" alt="AJ Garrigues"></a> 
                             </div>
                             <div class=" nav-icon">
                                 <nav>
