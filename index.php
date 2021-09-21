@@ -21,21 +21,7 @@
                     <div class="row">
                         <div class="heading">
                             <div class="feature-img">
-                                <a href="index.php"><img src="assets/images/ajgarrigues.jpg" class="responsive-img" alt="AJ Garrigues"></a> 
-                            </div>
-                            <div class=" nav-icon">
-                                <nav>
-                                    <div class="nav-wrapper">
-                                      <ul id="nav-mobile" class="side-nav">                                  
-                                        <li><a href="index-2.html">Resume</a></li>                                        
-                                        <li><a href="project.html">Projects</a></li>
-                                        <li><a href="cover-latter.html">Cover Latter</a></li>
-                                        <li><a href="blog.html">Blog</a></li>
-                                        <li><a href="contact.html">Contact</a></li>
-                                      </ul>
-                                      <a href="#" data-activates="nav-mobile" class="button-collapse  "><i class="mdi-navigation-menu"></i></a>
-                                    </div>
-                                </nav>
+                                <a href="#"><img src="assets/images/ajgarrigues.jpg" class="responsive-img" alt="AJ Garrigues"></a> 
                             </div>
                             <div class="title col s12 m12 l9 right  wow fadeIn" data-wow-delay="0.1s">   
                                 <h2>AJ Nocolai Garrigues</h2>
@@ -64,7 +50,7 @@
                                 <div class="col m12 s12 l9 info wow fadeIn a1" data-wow-delay="0.1s">
                                     <div class="section-item-details">
                                         <div class="personal">
-                                            <h4><a href="https://ph.linkedin.com/in/aj-nocolai-garrigues">ph.linkedin.com/in/aj-nocolai-garrigues</a></h4>
+                                            <h4><a href="https://ph.linkedin.com/in/aj-nocolai-garrigues" target="_blank">ph.linkedin.com/in/aj-nocolai-garrigues</a></h4>
                                         </div>
                                     </div>           
                                 </div>
@@ -78,11 +64,26 @@
                                 <div class="col m12 s12 l9 info wow fadeIn a1" data-wow-delay="0.1s">
                                     <div class="section-item-details">
                                         <div class="personal">
-                                            <h4><a href="https://github.com/aj-garrigues">github.com/aj-garrigues</a></h4>
+                                            <h4><a href="https://github.com/aj-garrigues" target="_blank">github.com/aj-garrigues</a></h4>
                                         </div>
                                     </div>           
                                 </div>
                             </div>         
+                        </div>
+                        <div class="col l12 m12 s12  mobile sidebar-item">
+                            <div class="row">                                
+                                <div class="col m12 s12 l3 icon">
+                                    <i class="fa fa-facebook-square"></i>
+                                </div>                                
+                                <div class="col m12 s12 l9 info wow fadeIn a2" data-wow-delay="0.2s" >
+                                    <div class="section-item-details">
+                                        <div class="personal">
+                                            <h4><a href="https://www.facebook.com/Wevolic" target="_blank">Wevolic</a></h4>
+                                            <span>Facebook Page</span> 
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>             
                         </div>
                         <div class="col l12 m12 s12  mobile sidebar-item">
                             <div class="row">                                
@@ -167,6 +168,7 @@
                                             <td><p>Javascript</p></td>
                                         </tr>
                                         <tr>
+                                            <td><p>Matomo Analytics</p></td>
                                             <td><p>HTML</p></td>
                                             <td><p>CSS</p></td>
                                         </tr>
@@ -184,21 +186,30 @@
                                             <td><p>AngularJS</p></td>
                                             <td><p>ReactJS</p></td>
                                             <td><p>PHP</p></td>
+                                            
                                         </tr>
                                         <tr>
                                             <td><p>Boostrap</p></td>
                                             <td><p>HTML</p></td>
                                             <td><p>CSS</p></td>
+                                            
                                         </tr>
                                         <tr>
                                             <td><p>JQuery</p></td>
                                             <td><p>Github</p></td>
                                             <td><p>Limelight CRM</p></td>
+                                            
                                         </tr>
                                         <tr>
                                             <td><p>Konnektive CRM</p></td>
-                                            <td><p>SSL Certificates</p></td>
+                                            <td><p>Google Analytics</p></td>
                                             <td><p>Domain & Hosting</p></td>
+                                            
+                                        </tr>
+                                        <tr>
+                                            <td><p>Cloudflare</p></td>
+                                            <td><p>Kraken.io</p></td>
+                                            <td><p>SSL Certificates</p></td>
                                         </tr>
                                     </table>
                                 </div>
@@ -303,6 +314,110 @@
                                 </div>
                             </div>                            
                         </div>
+
+                        <div class="section-wrapper z-depth-1">                            
+                            <div class="section-icon col s12 m12 l1">
+                            </div>
+                            <div class="custom-content col s12 m12 l11 wow fadeIn a1" data-wow-delay="0.1s">
+                                <h2>Active Freelance Projects</h2>
+
+                                <div class="custom-content-wrapper wow fadeIn a2" data-wow-delay="0.2s">
+                                    <h3>
+                                        <img src="assets/images/motogarahe.jpeg" alt="motogarahe.com">
+                                        Motogarahe.com
+                                    </h3>
+                                    <span>Website</span>
+                                    <a href="https://www.motogarahe.com" target="_blank">www.motogarahe.com</a>
+                                    <table>
+                                        <tr>
+                                            <td><p>Interactive website that helps you to search, compare and purchase motorcycles all over the philippines</p></td>
+                                        </tr>
+                                    </table>
+                                </div>
+                                <div class="custom-content-wrapper wow fadeIn a2" data-wow-delay="0.2s">
+                                    <h3>
+                                        <img src="assets/images/philex.png" alt="Philex">
+                                        Philex
+                                    </h3>
+                                    <span>Website & Mobile Application</span>
+                                    <a href="https://www.philex.ph" target="_blank">www.philex.ph</a>
+                                    <table>
+                                        <tr>
+                                            <td><p>Transport and delivery mobile application trusted by suppliers, food shops to take care and deliver their goods to customers.</p></td>
+                                        </tr>
+                                    </table>
+                                </div>
+                                <div class="custom-content-wrapper wow fadeIn a2" data-wow-delay="0.2s">
+                                    <h3>
+                                        <img src="assets/images/redcircleglobal.jpg" alt="Red Circle Global">
+                                        Red Circle Global
+                                    </h3>
+                                    <span>Website</span>
+                                    <a href="https://www.redcircleglobal.com" target="_blank">www.redcircleglobal.com</a>
+                                    <table>
+                                        <tr>
+                                            <td><p>Provide digital solutions through in-depth consultation, innovating design, and implementing end-to-end approach to various applications</p></td>
+                                        </tr>
+                                    </table>
+                                </div>
+                                <div class="custom-content-wrapper wow fadeIn a2" data-wow-delay="0.2s">
+                                    <h3>
+                                        <img src="assets/images/onlinemotofestival.jpg" alt="Online Moto Festival">
+                                        Online Moto Festival
+                                    </h3>
+                                    <span>Website</span>
+                                    <a href="https://www.onlinemotofestival.com" target="_blank">www.onlinemotofestival.com</a>
+                                    <table>
+                                        <tr>
+                                            <td><p>The First digital motorcycle exhibition in the world. This event happened on April 12-18, 2021.</p></td>
+                                        </tr>
+                                    </table>
+                                </div>
+                                <div class="custom-content-wrapper wow fadeIn a2" data-wow-delay="0.2s">
+                                    <h3>
+                                        <img src="assets/images/guavatek.png" alt="Guavatek">
+                                        Guavatek
+                                    </h3>
+                                    <span>Website</span>
+                                    <a href="https://www.guavatek.tech" target="_blank">www.guavatek.tech</a>
+                                    <table>
+                                        <tr>
+                                            <td><p>Provides a competitive IT solution to your online marketing campaigns such as creation, maintenance and support of your eCommerce and merchant sites.</p></td>
+                                        </tr>
+                                    </table>
+                                </div>
+                                <div class="custom-content-wrapper wow fadeIn a2" data-wow-delay="0.2s">
+                                    <h3>
+                                        <img src="assets/images/onis.jpeg" alt="Onis Global">
+                                        Onis Global
+                                    </h3>
+                                    <span>Website</span>
+                                    <a href="https://onis.global" target="_blank">onis.global</a>
+                                    <table>
+                                        <tr>
+                                            <td><p>Provides Technology Support, Customer Support and Financial Support to meet the needs of every client.</p></td>
+                                        </tr>
+                                    </table>
+                                </div>
+                                <div class="custom-content-wrapper wow fadeIn a2" data-wow-delay="0.2s">
+                                    <h3>
+                                        <img src="assets/images/apsc.png" alt="A-plus Power Solution Corporation">
+                                        A-plus Power Solution Corporation
+                                    </h3>
+                                    <span>Website</span>
+                                    <a href="https://www.apluspowersolution.com" target="_blank">www.apluspowersolution.com</a>
+                                    <table>
+                                        <tr>
+                                            <td><p>Subsidiary company of Challenge Industrial Co., Ltd. [CIC], A trusted manufacturer and distributor in Taiwan.</p></td>
+                                        </tr>
+                                    </table>
+                                </div>
+                                <div class="custom-content-wrapper wow fadeIn a2" data-wow-delay="0.2s">
+                                    <strong>Inactive Projects Listed in my Facebook page: <a href="https://www.facebook.com/Wevolic" target="_blank">Wevolic</a></strong>
+                                </div>
+                            </div>                            
+                        </div>
+
                         <div class="section-wrapper z-depth-1">
                             <div class="section-icon col s12 m12 l1">
                             </div>

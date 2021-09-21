@@ -350,6 +350,7 @@ body {
 }
 .custom-content-wrapper td {
   padding: 0px;
+  width: 33%;
 }
 .custom-content-wrapper h3 img {
   position: relative;
