@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
         <meta charset="utf-8">
-        <title>AJ Nocolai Garrigues | Web Developer</title>
+        <title>AJ Nocolai Garrigues | Web and Mobile Developer</title>
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
         <meta name="author" content="AJ Nocolai Garrigues">
         <meta name="description" content="Web and Mobile developer from Philippines with 5 years solid experience in fulltime and freelancing with the passion in coding that improves in a daily basis.">
