@@ -2,17 +2,28 @@
 <html lang="en">
 <head>
         <meta charset="utf-8">
-        <title>AJ Garrigues | Web Developer</title>
+        <title>AJ Nocolai Garrigues | Web Developer</title>
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
-        <meta name="description" content="">
         <meta name="author" content="AJ Nocolai Garrigues">
+        <meta name="description" content="Web and Mobile developer from Philippines with 5 years solid experience in fulltime and freelancing with the passion in coding that improves in a daily basis.">
+        
         <link href="assets/css/materialize.min.css" rel="stylesheet">
+        <link rel="icon" type="image/x-icon" href="assets/images/ajgarrigues.jpg">
         <link rel="stylesheet" href="assets/css/animate.css">
         <link href='http://fonts.googleapis.com/css?family=Roboto:400,100,300,700,400italic,700italic' rel='stylesheet' type='text/css'>
-        <link href="assets/icons/font-awesome-4.1.0/css/font-awesome.min.css" rel="stylesheet" type="text/css"> 
+        <link href="assets/icons/font-awesome-4.1.0/css/font-awesome.min.css" rel="stylesheet" type="text/css">
         <link href="assets/css/style.css" rel="stylesheet">
         <link href="assets/css/responsive.css" rel="stylesheet">
         <link rel="stylesheet" href="assets/css/demo.css">
+
+        <script async src="https://www.googletagmanager.com/gtag/js?id=G-61TWPSTXYL"></script>
+        <script>
+            window.dataLayer = window.dataLayer || [];
+            function gtag(){dataLayer.push(arguments);}
+            gtag('js', new Date());
+
+            gtag('config', 'G-61TWPSTXYL');
+        </script>
     </head>
     <body>
         <div class="container">
@@ -21,7 +32,7 @@
                     <div class="row">
                         <div class="heading">
                             <div class="feature-img">
-                                <a href="#"><img src="assets/images/ajgarrigues.jpg" class="responsive-img" alt="AJ Garrigues"></a> 
+                                <a href="/"><img src="assets/images/ajgarrigues.jpg" class="responsive-img" alt="AJ Nocolai Garrigues"></a> 
                             </div>
                             <div class="title col s12 m12 l9 right  wow fadeIn" data-wow-delay="0.1s">   
                                 <h2>AJ Nocolai Garrigues</h2>
@@ -151,7 +162,7 @@
 
                                 <div class="custom-content-wrapper wow fadeIn a2" data-wow-delay="0.2s">
                                     <h3>
-                                        <img src="assets/images/wonders.jpg" alt="">
+                                        <img src="assets/images/wonders.jpg" alt="Wonders Corporation">
                                         Wonders Corporation
                                     </h3>
                                     <span>Frontend Developer • Feb 2021 - Present</span>
@@ -176,7 +187,7 @@
                                 </div>
                                 <div class="custom-content-wrapper wow fadeIn a3" data-wow-delay="0.3s">
                                     <h3>
-                                        <img src="assets/images/cosmicmediagrp.com.png" alt="">
+                                        <img src="assets/images/cosmicmediagrp.com.png" alt="Cosmic Media Group Inc.">
                                         Cosmic Media Group Inc.
                                     </h3>
                                     <span>Web Developer • Mar 2018 - Feb 2021</span>
@@ -215,7 +226,7 @@
                                 </div>
                                 <div class="custom-content-wrapper wow fadeIn a4" data-wow-delay="0.3s">
                                     <h3>
-                                        <img src="assets/images/konganbuddies.jpg" alt="">
+                                        <img src="assets/images/konganbuddies.jpg" alt="Konganbuddies">
                                         Konganbuddies
                                     </h3>
                                     <span>Web Developer • Mar 2017 - Mar 2018</span>
@@ -240,7 +251,7 @@
                                 </div>
                                 <div class="custom-content-wrapper wow fadeIn a5" data-wow-delay="0.3s">
                                     <h3>
-                                        <img src="assets/images/think-sumo.jpg" alt="">
+                                        <img src="assets/images/think-sumo.jpg" alt="Think Sumo Creative Media inc.">
                                         Think Sumo Creative Media inc.
                                     </h3>
                                     <span>Web Developer • Sep 2016 - Feb 2017</span>
@@ -265,7 +276,7 @@
                                 </div>
                                 <div class="custom-content-wrapper wow fadeIn a6" data-wow-delay="0.3s">
                                     <h3>
-                                        <img src="assets/images/limitless.jpg" alt="">
+                                        <img src="assets/images/limitless.jpg" alt="Limitless">
                                         Limitless
                                     </h3>
                                     <span>Founder / Web Developer • Jul 2015 - Dec 2015</span>
@@ -289,7 +300,7 @@
                                 </div>
                                 <div class="custom-content-wrapper wow fadeIn a7" data-wow-delay="0.3s">
                                     <h3>
-                                        <img src="assets/images/granton-world.jpg" alt="">
+                                        <img src="assets/images/granton-world.jpg" alt="Granton World">
                                         Granton World
                                     </h3>
                                     <span>Web Developer • Apr 2015 - Jul 2015</span>
