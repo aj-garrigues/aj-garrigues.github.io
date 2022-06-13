@@ -174,6 +174,21 @@
                                             <td><p>NextJS</p></td>
                                         </tr>
                                         <tr>
+                                            <td><p>Redux</p></td>
+                                            <td><p>Local Storage</p></td>
+                                            <td><p>WebSocket</p></td>
+                                        </tr>
+                                        <tr>
+                                            <td><p>React Testing Library</p></td>
+                                            <td><p>Jest</p></td>
+                                            <td><p>Push Notification(FCM & APN)</p></td>
+                                        </tr>
+                                        <tr>
+                                            <td><p>DynamoDB</p></td>
+                                            <td><p>Lambda</p></td>
+                                            <td><p>API Gateway</p></td>
+                                        </tr>
+                                        <tr>
                                             <td><p>Github</p></td>
                                             <td><p>Typescript</p></td>
                                             <td><p>Javascript</p></td>
