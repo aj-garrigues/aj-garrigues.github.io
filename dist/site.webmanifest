@@ -1,0 +1,16 @@
+{
+  "name": "AJ Nocolai Garrigues Portfolio",
+  "short_name": "AJ Garrigues",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#ffffff",
+  "description": "Senior web and mobile engineer crafting polished product experiences.",
+  "icons": [
+    {
+      "src": "/images/profile.jpg",
+      "sizes": "512x512",
+      "type": "image/jpeg"
+    }
+  ]
+}
