@@ -33,9 +33,9 @@ const ExperienceSection = () => {
   return (
     <section
       id="experience"
-      className="border-b border-slate-100 bg-white py-16 md:py-16"
+      className="border-b border-slate-100 bg-white py-12 md:py-20 lg:py-24"
     >
-      <div className="mx-auto max-w-6xl px-6 lg:px-12">
+      <div className="mx-auto max-w-6xl px-4 sm:px-6 lg:px-12">
         <header className="mb-16 max-w-3xl space-y-6">
           <p className="text-xs uppercase tracking-[0.4em] text-slate-400">
             Experience
@@ -145,7 +145,7 @@ const ExperienceSection = () => {
               {"\u00d7"}
             </button>
             <div className="flex max-h-[70vh] flex-col overflow-y-auto pr-2 md:pr-3">
-              <div className="mb-8 flex items-center justify-between border-b border-slate-100 pb-8">
+              <div className="mb-8 flex flex-col gap-2 border-b border-slate-100 pb-8 lg:flex-row lg:items-center lg:justify-between lg:gap-0">
                 <span className="text-xs font-medium tracking-[0.2em] text-slate-400">
                   {selectedExperience.timeframe}
                 </span>

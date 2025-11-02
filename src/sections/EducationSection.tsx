@@ -4,8 +4,8 @@ type EducationItem = (typeof education)[number];
 
 const EducationSection = () => {
   return (
-    <section id="education" className="bg-white py-16 md:py-16">
-      <div className="mx-auto max-w-6xl px-6 lg:px-12">
+    <section id="education" className="bg-white py-12 md:py-20 lg:py-24">
+      <div className="mx-auto max-w-6xl px-4 sm:px-6 lg:px-12">
         <header className="mb-16 max-w-3xl space-y-6">
           <p className="text-xs uppercase tracking-[0.4em] text-slate-400">
             Education

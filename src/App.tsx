@@ -3,6 +3,7 @@ import { Routes, Route } from "react-router-dom";
 import Footer from "@/components/Footer";
 import Navigation from "@/components/Navigation";
 import ContactModal from "@/components/ContactModal";
+import ScrollToTop from "@/components/ScrollToTop";
 import { ContactModalProvider } from "@/contexts/ContactModalContext";
 import { profile, socials, expertise, projects } from "@/data/profile";
 import ContactSection from "@/sections/ContactSection";
@@ -77,6 +78,7 @@ const App = () => {
           </script>
         </Helmet>
 
+        <ScrollToTop />
         <Navigation />
         <main id="main">
           <Routes>

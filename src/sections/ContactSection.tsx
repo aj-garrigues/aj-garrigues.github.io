@@ -6,9 +6,9 @@ const ContactSection = () => {
   return (
     <section
       id="contact"
-      className="border-t border-slate-100 bg-slate-50/50 py-16"
+      className="border-t border-slate-100 bg-slate-50/50 py-12 md:py-20 lg:py-24"
     >
-      <div className="mx-auto flex max-w-5xl flex-col gap-10 px-6 text-center lg:px-12">
+      <div className="mx-auto flex max-w-5xl flex-col gap-10 px-4 text-center sm:px-6 lg:px-12">
         <p className="text-xs uppercase tracking-[0.4em] text-slate-400">
           Collaborate
         </p>

@@ -116,10 +116,88 @@ export const expertise = [
 
 export const experience = [
   {
+    company: "Ascendion",
+    role: "Senior Software Engineer",
+    timeframe: "August 2025 - Present",
+    location: "Makati, PH, Remote",
+    url: "https://www.ascendion.com/",
+    logo: "/images/ascendion_logo.jpeg",
+    summary:
+      "Engineering modern web experiences for enterprise clients with a focus on front‑end quality, performance, and delivery.",
+    achievements: [
+      "Shipped React/Next.js features aligned with design system standards and accessibility.",
+      "Drove component reusability and testing coverage using React Testing Library and Jest.",
+      "Collaborated in Agile ceremonies and cross‑functional planning to unblock delivery.",
+      "Instrumented analytics and error monitoring to inform iterative improvements."
+    ],
+    stack: [
+      "Agile Environment",
+      "Amazon Web Services (AWS)",
+      "Cascading Style Sheets (CSS)",
+      "Code Review",
+      "Front-End Development",
+      "Mobile Applications",
+      "React.js",
+      "Software Development",
+      "TypeScript",
+      "User Interface Design",
+      "Web Services API",
+      "React Native",
+      "MobX",
+      "Next.js",
+      "Tailwind",
+      "Styled Components",
+      "Redux",
+      "Jest",
+      "React Testing Library",
+      "Github",
+      "Gitlab",
+      "Jira",
+      "Confluence",
+      "Google Analytics",
+      "Figma",
+    ]
+  },
+  {
+    company: "CIMB Bank",
+    role: "Senior React Native Developer",
+    timeframe: "August 2025 - Present",
+    location: "Manila, PH",
+    url: "https://www.cimb.com",
+    logo: "/images/cimb_bank_philippines_inc_logo.jpeg",
+    summary:
+      "Contributed to banking web experiences with an emphasis on reliability, security, and clear UX implementation.",
+    achievements: [
+      "Implemented responsive UI flows following Figma specifications and brand guidelines.",
+      "Improved code quality via peer reviews and adherence to coding standards.",
+      "Integrated analytics events to support product insights and reporting.",
+      "Partnered with backend teams to integrate APIs and handle edge cases."
+    ],
+    stack: [
+      "Agile Environment",
+      "Android Development",
+      "Cascading Style Sheets (CSS)",
+      "Code Review",
+      "Front-End Development",
+      "Git",
+      "JavaScript",
+      "MobX",
+      "Mobile Applications",
+      "REST APIs",
+      "React Native",
+      "React Testing Library",
+      "React.js",
+      "Software Development",
+      "TypeScript",
+      "User Interface Design",
+      "Web Services API"
+    ]
+  },
+  {
     company: "Wonders Corporation",
     role: "Senior Software Engineer",
-    timeframe: "Feb 2021 - Present",
-    location: "Remote",
+    timeframe: "Feb 2021 - June 2025",
+    location: "Pasig, PH, Remote",
     url: "https://www.wondersco.com",
     logo: "/images/wonders.jpg",
     summary:
@@ -282,6 +360,30 @@ export const experience = [
 
 export const projects = [
   {
+    name: "CIMB Bank Philippines",
+    type: "Mobile Banking Application",
+    url: "https://apps.apple.com/in/app/cimb-bank-philippines/id1603056657",
+    description:
+      "All-digital banking app offering fast sign-up, seamless transactions with Instapay, account management, and financial products including UpSave, GSave, Personal Loans, and REVI Credit with enhanced security features.",
+    image: "/images/cimb-app.webp"
+  },
+  {
+    name: "Camper App PH",
+    type: "Mobile Application",
+    url: "https://camperapp.ph",
+    description:
+      "The Philippines' first camping mobile app connecting campers to campgrounds and stores, making every camping adventure seamless and memorable.",
+    image: "/images/camper.jpg"
+  },
+  {
+    name: "Apex Overhead Door",
+    type: "Business Website",
+    url: "https://apexoverheaddoor.ca",
+    description:
+      "Comprehensive garage door service platform offering installation, repair, and maintenance services for residential, commercial, and agricultural properties in Alberta.",
+    image: "/images/apex.png"
+  },
+  {
     name: "Motogarahe",
     type: "Marketplace Platform",
     url: "https://www.motogarahe.com",
@@ -344,21 +446,21 @@ export const education = [
     school: "New Era University",
     credential: "BS Computer Science",
     timeframe: "2011 - 2015",
-    image: "https://images.unsplash.com/photo-1541339907198-e08756dedf3f?w=800&q=80",
+    image: "/images/neu.jpg",
     location: "Quezon City, PH"
   },
   {
     school: "Far Eastern University",
     credential: "BS Information Technology",
     timeframe: "2010 - 2011",
-    image: "https://images.unsplash.com/photo-1562774053-701939374585?w=800&q=80",
+    image: "/images/feu.jpg",
     location: "Manila, PH"
   },
   {
     school: "New Era University",
     credential: "Secondary Education",
     timeframe: "2006 - 2010",
-    image: "https://images.unsplash.com/photo-1523050854058-8df90110c9f1?w=800&q=80",
+    image: "/images/neu.jpg",
     location: "Quezon City, PH"
   }
 ];
